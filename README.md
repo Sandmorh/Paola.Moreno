@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning **Machine learnig and Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
+
+https://www.linkedin.com/in/sandra-paola-moreno-herrera-ba6431b2/
+
 <p align="left">
 </p>
 
